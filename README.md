@@ -27,5 +27,8 @@ To achieve this goal, we decided to
 - [End-to-End Differentiable GANs for Text Generation](http://proceedings.mlr.press/v137/kumar20a/kumar20a.pdf)
 - [Training Language GANs from Scratch](https://arxiv.org/pdf/1905.09922.pdf)
 
+## Project Presentation
+[Presentation](/Presentation/Lyrics_Generation.pdf) of the project from a technical point of view.
+
 ## License
 This project is licensed under the MIT License.
